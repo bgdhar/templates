@@ -1,0 +1,4 @@
+Templates - Repository
+======================
+
+This repository consists of templates for different technologies with different combinations. These templates help to start a sample application with the specified technology. In some cases you may not find libraries for licensed versions. For example Extjs is a licensed  version, then sample project may not be having such libraries. Please make sure that you have those libraries and include them in this sample template before running them. Many of the applications are created in maaven as of now. Once you download these templates, each template you can run batch file to convert them in to eclipse. Once you convert into eclipse you can run this in eclipse. Otherwise simply you want to see the running app, type maven package. It creates war/jar. In case of war you can directly deploy this war in your application container(Tomcat,JBoss etc..)
